@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Benjamin 👋<br>💼 Data Analyst | Proficient in Excel, SQL/BigQuery, Power BI, Tableau, and Looker<br>🚀 Aspiring Data Engineer | Building data pipelines with Python, Airflow, Docker, and GCP<br>📊 Passionate about turning raw data into actionable insights and visual stories<br>⚡ Skilled at creating efficient, scalable, and high-quality data solutions
+Hi there, I’m Benjamin 👋<br>💼 Data Analyst | Proficient in Spreadsheet, SQL/BigQuery, Power BI, Tableau, and Looker<br>🚀 Data Engineer | Building data pipelines with Python, Airflow, Docker, and GCP<br>📊 Passionate about turning raw data into actionable insights and visual stories<br>⚡ Skilled at creating efficient, scalable, and high-quality data solutions
 
 
 ## 🌐 Socials:
