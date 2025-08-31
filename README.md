@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi there, I’m Benjamin 👋
+Hi there, I’m Benjamin 👋  
+💼 Data Analyst | Data Scientist — Skilled in Spreadsheets, SQL (MySQL/BigQuery), Power BI, Tableau, Looker, and Machine Learning (Linear Models) using scikit-learn, XGBoost, Random Forest, Logistic Regression  
+🚀 Junior Data Engineer — Building/Managing data pipelines with Python, Airflow, Docker, and GCP  
+📊 Data Storyteller — Passionate about transforming raw data into actionable insights & compelling visuals  
+⚡ Problem Solver — Focused on designing efficient, scalable, and high-quality data solutions  
+🌱 Currently exploring advanced Data Engineering, Machine Learning, and AI-driven analytics
 
-💼 Data Analyst — Skilled in Spreadsheets, SQL (MySQL/BigQuery), Power BI, Tableau, Looker
-<br>🚀 Aspiring Data Engineer — Building data pipelines with Python, Airflow, Docker, and GCP
-<br>📊 Data Storyteller — Passionate about transforming raw data into actionable insights & compelling visuals
-<br>⚡ Problem Solver — Focused on designing efficient, scalable, and high-quality data solutions
-<br>🌱 Currently exploring Data Engineering & Machine Learning
 
 
 ## 🌐 Socials:
