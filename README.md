@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>Hi, I’m Benjamin 👋
+<br>Hi 👋
 <br>💼 Data Analyst | Data Scientist — SQL (MySQL, BigQuery), BI (Power BI, Tableau, Looker), ML (scikit-learn, XGBoost)
 <br>🚀 Data Engineer — Python, Airflow, Docker, Databricks, GCP, Azure Data Studio
 <br>📊 Data Storyteller — Turning data into actionable insights & clear visuals
