@@ -1,8 +1,14 @@
-<br>Hi 👋
-<br>💼 Data Analyst | Data Scientist — SQL (MySQL, BigQuery), BI (Power BI, Tableau, Looker), ML (scikit-learn, XGBoost)
-<br>🚀 Data Engineer — Python, Airflow, Docker, Databricks, GCP, Azure Data Studio
-<br>📊 Data Storyteller — Turning data into actionable insights & clear visuals
-<br>⚡ Problem Solver — Building scalable, high-quality data solutions
+### 💼 Data Analyst | Scientist | Engineer
+I transform complex datasets into scalable solutions and actionable stories.
+
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Data Engineering** | Python, Airflow, Docker, Databricks, GCP |
+| **Data Science** | Machine Learning, scikit-learn, XGBoost |
+| **Analytics & BI** | SQL (MySQL, BigQuery), Power BI, Tableau, Looker, PySpark |
+| **Core Strengths** | Scalable Pipelines, Data Storytelling, Problem Solving |
+
+**[View My Featured Projects Below 👇]**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjaminofurhie/) 
