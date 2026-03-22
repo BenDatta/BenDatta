@@ -1,12 +1,12 @@
-### 💼 Data Analyst | Scientist | Engineer
-I transform complex datasets into scalable solutions and actionable stories.
+### Data Analyst · Data Scientist · Data Engineer
 
-| **Domain** | **Tools & Technologies** |
+Turning raw data into reliable pipelines, sharp insights, and clear decisions.
+
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Data Engineering** | Python, Airflow, Docker, Databricks, GCP |
-| **Data Science** | Machine Learning, scikit-learn, XGBoost |
-| **Analytics & BI** | SQL (MySQL, BigQuery), Power BI, Tableau, Looker, PySpark |
-| **Core Strengths** | Scalable Pipelines, Data Storytelling, Problem Solving |
+| **Engineering** | Python · Airflow · Docker · Databricks · GCP |
+| **Science** | scikit-learn · XGBoost · Machine Learning |
+| **Analytics & BI** | SQL · BigQuery · Power BI · Tableau · Looker · PySpark |
 
 **[View My Featured Projects Below 👇]**
 
