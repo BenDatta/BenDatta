@@ -1,4 +1,4 @@
-### Data Analyst · Data Scientist · Data Engineer
+### Data Analyst · Data Engineer
 
 Turning raw data into scalable pipelines, trusted datasets, and production-ready platforms.
 
