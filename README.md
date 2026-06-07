@@ -7,7 +7,7 @@ Turning raw data into scalable pipelines, trusted datasets, and production-ready
 | **Programming & Development** | Python · SQL · Git |
 | **Data Orchestration** | Apache Airflow |
 | **Data Processing** | PySpark · Databricks |
-| **Data Warehousing** | BigQuery/Postgres |
+| **Data Warehousing** | BigQuery/Postgres/ Redshift |
 | **Cloud Platform** | Google Cloud Platform (GCP), AWS |
 | **Containerization** | Docker |
 | **Analytics & Visualization** | Power BI · Tableau · Looker |
